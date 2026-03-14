@@ -1,4 +1,13 @@
 Date: Sat, 14 Mar 2026 22:22:38 +0000
+
+Origin: PowerD
+Label: PowerD
+Suite: powerd
+Codename: powerd
+Architectures: amd64
+Components: main
+Description: PowerD Linux repository
+
 MD5Sum:
  063f65ea28add9c3e7d497aa3c69abe5               38 Release
  8ce4e8be8ab9a697664289713b4f4f19              448 main/binary-amd64/Packages
