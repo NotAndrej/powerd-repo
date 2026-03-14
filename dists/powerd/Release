@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: powerd
 Components: main
-Date: Sat, 14 Mar 2026 22:38:31 +0000
+Date: Sat, 14 Mar 2026 22:57:57 +0000
 Description: PowerD repository
 Label: PowerD
 Origin: PowerD
 Suite: powerd
 MD5Sum:
- a3b1c3b0389d5c9ebf0cb9fcbc28c6ec              167 Release
- 8ce4e8be8ab9a697664289713b4f4f19              448 main/binary-amd64/Packages
- 0e69ca57fb88e0de18d41b5ad0ff4628              352 main/binary-amd64/Packages.gz
+ 8e759d8e4c95b6b269ae94ac4b42c35a              167 Release
+ cadefa23f3c7cdefe87063a9db3eb2a6              471 main/binary-amd64/Packages
+ a81866bd35a2d0ce5c01b005f32c5818              364 main/binary-amd64/Packages.gz
 SHA1:
- acf3f41200382474902234a978161074c6add084              167 Release
- b775fce4b86de69ed983a09f06e7d33adc7ba59a              448 main/binary-amd64/Packages
- de5c1419aa72e59ca1856a6bb97b9f29460133d4              352 main/binary-amd64/Packages.gz
+ 63397b2c39ad2285814a85249fa9e780a08dfb62              167 Release
+ 7e3a2a64d7c14096979dd4afb467a2387ce3fee2              471 main/binary-amd64/Packages
+ 300faab7c33640d78801969ec6dc0ed3b8afceaa              364 main/binary-amd64/Packages.gz
 SHA256:
- 3ebd047beadf8459ca7ba4106d913280242750f9caf77a9db625b6faf5d3bd6a              167 Release
- 1b5b4fc8de9d554d943198a0d4fcaec471286ddff046baa056f0b7dbf4130a57              448 main/binary-amd64/Packages
- 9a35f799c15bb89fa423c3ca7c75a03a398fdd39e54475598fc4e84a242ac491              352 main/binary-amd64/Packages.gz
+ 29605f46b8c3ff9a94774996eee95965eecdf74232bfd92174ba4aa36c71151f              167 Release
+ 6caa758b8dba490509dc00e72c4644a7464e8979796877323414d38f292cfa93              471 main/binary-amd64/Packages
+ e59753d10597bee28e4411fbb05447a3de62b8c39ce459c6990ddc417be44466              364 main/binary-amd64/Packages.gz
 SHA512:
- 54420f84e575cbbd4c36a590d78f1d4abb7296cf6990e93e923b00ce2d0447407ed4fef987947189fa9f20210f17024524451daaaf87ed9c6b4d34a2bb6bdd6e              167 Release
- 00540e31758d964cc9126bb3d550b86e43c0d40b71ea3fd61c99400e5385cf0a5821f8f36a2ac8ded1144b52419b2683c7196f5d349911a81e38370d7ffca978              448 main/binary-amd64/Packages
- 858b3b9a0d3cc88e376510a8394f0b8fed9ea9899462a5331911d83f18a31d307ce4309b1792af59d7f227c2169ca9eff10b1f63acc277042e855eb0d9452470              352 main/binary-amd64/Packages.gz
+ afc20428ccaf48ab5fc8e52559247ff7feac005d59020fa94a1bcf184a97f8ed77f4c7384a779c4aae14999a44abdf73b514838132d1f06269c3c5db85503ff6              167 Release
+ 7aa08f0c46e2b2d8396ced63333f27f828e0e22433ce9c9b74e3e2c031d02f4d12d6e3f9ec27dabac6711b9c958da0ccacaf1254045915cd285ffcb0308fd740              471 main/binary-amd64/Packages
+ da9a5c31ce648c19ed9b38c66fcc91b158a3fd8c04205a477fe9e896c8b444efef168346f158b8a4798e78bb8bbf65af865b3c48880980ca760c7cc72d000c8c              364 main/binary-amd64/Packages.gz
