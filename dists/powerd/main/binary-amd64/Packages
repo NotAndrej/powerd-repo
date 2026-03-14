@@ -1,0 +1,14 @@
+Package: runkit-deb
+Version: 1.0-2
+Architecture: amd64
+Maintainer: Not Andrej <not_andrej@proton.me>
+Depends: runit-init,libgtk-4-dev,libadwaita-1-dev,libpango1.0-dev
+Filename: pool/main/runkit-deb_1.0-2_amd64.deb
+Size: 2084496
+MD5sum: d0eb51228aa0a6d3a20af876db57e879
+SHA1: e13f9eda54acdc9cee2da8480ee2b5444e254eec
+SHA256: a61c31dac8a348abad9ceb07b237f3efedd88c26878ad7a8b986bd7c29e2e7ca
+Section: utils
+Priority: optional
+Description: Runkit fork for Debian GNU/Linux.
+
